@@ -1,0 +1,2 @@
+mkdir -p pdf_ai_agent/uploads
+mkdir -p pdf_ai_agent/processed
