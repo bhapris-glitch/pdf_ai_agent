@@ -1,2 +1,10 @@
 mkdir -p pdf_ai_agent/uploads
 mkdir -p pdf_ai_agent/processed
+
+pdf_ai_agent/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── uploads/
+└── processed/
