@@ -1,0 +1,6 @@
+flask
+PyPDF2
+pytesseract
+pdf2docx
+PyMuPDF
+pdf2image
