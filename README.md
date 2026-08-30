@@ -19,3 +19,28 @@ A Flask-based API server for advanced PDF manipulation and AI-powered features.
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
+
+---
+
+## Final Step
+
+### 5. Pack everything into ZIP
+
+- Create the folder `pdf_ai_agent`
+- Place `app.py`, `requirements.txt`, `README.md` inside
+- Create empty folders `uploads/` and `processed/`
+
+Then zip the entire `pdf_ai_agent/` folder.
+
+---
+
+## Summary
+
+- **Download the ZIP**: [link placeholder]
+- **Extract and set up**: Follow the README instructions
+- **Run**: `python app.py`
+- **Use**: Send requests to the API endpoints
+
+---
+
+**Would you like me to generate the ZIP file for download via an external service, or do you want detailed commands to do it manually?**
