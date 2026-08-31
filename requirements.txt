@@ -4,3 +4,7 @@ pytesseract
 pdf2docx
 PyMuPDF
 pdf2image
+pillow
+reportlab
+opencv-python
+googletrans==4.0.0-rc1
